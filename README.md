@@ -103,7 +103,7 @@ Plaintext
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ArafatBinIbrahim/ML-Project-Workflow-Pipeline.git
 Navigate to the project directory and open Jupyter Lab or Notebook:
 
 Bash
